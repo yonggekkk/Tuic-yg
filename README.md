@@ -4,11 +4,18 @@
 
 ### 相关说明及注意点请查看[博客说明](https://ygkkk.blogspot.com/2022/11/tuic-yg-youtube.html)
 
-### 一键脚本：
+#### vps一键脚本：
 ```
-wget -N https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh && bash tuic.sh
+bash <(wget -qO- https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh 2> /dev/null)
+```
+或者
+```
+bash <(curl -Ls https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh)
 ```
 
-![28c1fe274df5815585eddd2d3f4482e](https://user-images.githubusercontent.com/121604513/213052925-5636c150-307e-4f8e-a6a0-b796e183a08d.png)
+![825904b6b5c9455b1731bac4a1a5d9d](https://github.com/yonggekkk/Tuic-yg/assets/121604513/c4c63c1d-a2f3-4985-b2f2-609d9c05e3ab)
+
 
 ### 脚本源码备份[Gitlab地址](https://gitlab.com/rwkgyg/tuic-yg)
+
+### 感谢[TUIC作者](https://github.com/EAimTY/tuic)
