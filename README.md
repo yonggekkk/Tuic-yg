@@ -4,7 +4,7 @@
 
 ### 相关说明及注意点请查看[博客说明](https://ygkkk.blogspot.com/2022/11/tuic-yg-youtube.html)
 
-#### 注意，下载windows核心请认准client字样
+### 注意：下载windows核心请认准client字样
 
 #### vps一键脚本：
 ```
