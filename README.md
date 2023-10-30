@@ -1,4 +1,4 @@
-## 23.10.26本项目停止更新，推荐使用[sing-box-yg脚本](https://github.com/yonggekkk/sing-box-yg)
+## 推荐使用最新的多协议共存[sing-box-yg脚本](https://github.com/yonggekkk/sing-box-yg)
 ------------------------------------------------------------------------------------------
 ### TUIC v4+v5二合一多功能一键脚本
 
