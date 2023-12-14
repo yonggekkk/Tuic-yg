@@ -21,4 +21,9 @@ bash <(curl -Ls https://gitlab.com/rwkgyg/tuic-yg/raw/main/tuic.sh)
 ![825904b6b5c9455b1731bac4a1a5d9d](https://github.com/yonggekkk/Tuic-yg/assets/121604513/c4c63c1d-a2f3-4985-b2f2-609d9c05e3ab)
 
 
-### 感谢[TUIC作者](https://github.com/EAimTY/tuic)
+---------------------------------------
+#### 声明：
+
+#### 该项目使用base64加密，可自行解密，介意者请勿使用
+
+#### 所有代码来源于Github社区与ChatGPT的整合；如您需要开源代码，请提Issues留下您的联系邮箱
